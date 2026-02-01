@@ -1,0 +1,5 @@
+{
+  "name": "BullionTrack Pro",
+  "description": "A professional inventory management system for gold and silver bullion businesses. Features serial-number tracking, real-time spot price calculations, POS for sales, and buyback management.",
+  "requestFramePermissions": []
+}
